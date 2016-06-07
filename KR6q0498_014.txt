@@ -1,26 +1,25 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:53:04.963523
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:52
 #+TITLE: 百愚禪師語錄
 #+PROPERTY: CBETA_ID J36nB359
 #+PROPERTY: ID KR6q0498
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 36, No. B359
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0498_J_014-0679b> 
 #+PROPERTY: JUAN 14
-
- 百愚斯禪師語錄卷第十四¶
+百愚斯禪師語錄卷第十四¶
 住國山善權寺嗣法門人智操¶
 住京兆薦福寺嗣法門人智覺　編次¶
 
-晚參¶
+* 晚參¶
 
 晚參舉世尊纔生一手指天一手指地周行七步目¶
 顧四方云天上天下惟吾獨尊雲門道當時若見一¶
 棒打殺與狗子喫貴圖天下太平乃云黃面瞿曇逞¶
 氣吞六合之雄跛腳阿師施博浪一椎之勇二者可¶
-謂人傑矣論量將來未是太平風運諸公要見太平¶
+謂人傑矣論量將來未是木平風運諸公要見太平¶
 風運麼卓拄杖云一箭落雙鵰。¶
 
 晚參舉世尊拈花因緣白雲端曰迦葉善觀風雲別¶

@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:53:04.875881
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:52
 #+TITLE: 百愚禪師語錄
 #+PROPERTY: CBETA_ID J36nB359
 #+PROPERTY: ID KR6q0498
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 36, No. B359
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0498_J_011-0665b> 
 #+PROPERTY: JUAN 11
-
- 百愚斯禪師語錄卷第十一¶
+百愚斯禪師語錄卷第十一¶
 住國山善權寺嗣法門人智操¶
 住京兆薦福寺嗣法門人智覺　編次¶
 
-住宜興國山善權禪寺語錄¶
+* 住宜興國山善權禪寺語錄¶
 
 順治庚子秋在佛日寺受請上堂拈疏云山僧腳跟¶
 一向佛祖搖撼不動今日為甚被者箇轉卻喝一喝¶
@@ -143,7 +142,7 @@
 蝦欲圖一箇半箇續佛慧命奈何風移俗易法久弊¶
 生今日只得機行別路令斬新條不勞肯綮克日取¶
 證卓拄杖云者裏薦得直教功滿三祇位超諸聖化¶
-蒺藜為甘露變伊蘭作栴檀共整數百載已頹之古¶
+蒺藜為甘露變伊蘭作栴檀共整數百載巳頹之古¶
 剎亦圓三千年不了之舊案然此猶是衲僧門下雕¶
 蟲末技須知更有把斷牢關一句子在大眾還知者
 <pb:KR6q0498_J_011-0666c>¶

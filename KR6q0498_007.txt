@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:53:04.770794
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:52
 #+TITLE: 百愚禪師語錄
 #+PROPERTY: CBETA_ID J36nB359
 #+PROPERTY: ID KR6q0498
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 36, No. B359
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0498_J_007-0646c> 
 #+PROPERTY: JUAN 7
-
- 百愚斯禪師語錄卷第七¶
+百愚斯禪師語錄卷第七¶
 住國山善權寺嗣法門人智操¶
 住青龍隆福寺嗣法門人智湛　編次¶
 
-住越州大能仁禪寺語錄¶
+* 住越州大能仁禪寺語錄¶
 
 順治壬辰秋在青龍隆福寺受請入院。¶
 
