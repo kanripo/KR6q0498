@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:53:04.850277
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:52
 #+TITLE: 百愚禪師語錄
 #+PROPERTY: CBETA_ID J36nB359
 #+PROPERTY: ID KR6q0498
@@ -9,12 +9,11 @@
 #+PROPERTY: WITNESS J
 #+PROPERTY: LASTPB <pb:KR6q0498_J_010-0660c> 
 #+PROPERTY: JUAN 10
-
- 百愚斯禪師語錄卷第十¶
+百愚斯禪師語錄卷第十¶
 住國山善權寺嗣法門人智操¶
 住青龍隆福寺嗣法門人智湛　編次¶
 
-住皋亭山佛日禪寺語錄¶
+* 住皋亭山佛日禪寺語錄¶
 
 順治庚子春就資福寺受請上堂耶溪解纜到苕溪¶
 又被使符半路追大抵業緣償未盡不妨隨處且拖¶
